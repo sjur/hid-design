@@ -1,0 +1,47 @@
+<svg id="KJ_logo" data-name="KJ logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175.67 37.6">
+  <defs>
+    <style>
+      .cls-1{fill:#99c8d1;}.cls-2,.cls-3{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:1.5px;}.cls-2{stroke-linejoin:round;}.cls-3{stroke-miterlimit:10;}.cls-4{fill:#cce3e8;}
+    </style>
+  </defs>
+  <title>KJ logo_subtjeneste lockup</title>
+  <path class="cls-1" d="M52.46,28.23H50.75l0,0L47.2,22l-2.37,2.85v3.35H43.39v-12h1.44v6.59l5.35-6.59H52l-3.79,4.65Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1"
+        d="M55.87,28.32a3.66,3.66,0,0,1-2.76-1.09L53,27.17l1-1,0.07,0.07a2.2,2.2,0,0,0,1.79.75c1.5,0,2.32-.93,2.32-2.62V16.27h1.44v8.29A3.56,3.56,0,0,1,55.87,28.32Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1" d="M69.51,28.23H62v-12h7.5v1.31H63.46v4h5.16v1.31H63.46v4.06h6.05v1.31Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1"
+        d="M77.37,22.86a3.13,3.13,0,0,0,2.52-3.22,3.26,3.26,0,0,0-3.58-3.37H71.69v12h1.44V23h2.68l2.65,5.17,0,0.05h1.68Zm-4.23-1.15V17.58h3a2.07,2.07,0,1,1,0,4.13h-3Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1" d="M91.19,28.23H89.85l0,0L83.75,19v9.22H82.3v-12h1.34l6.11,9.19V16.27h1.44v12Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1" d="M101.43,28.23h-7.5v-12h7.5v1.31H95.37v4h5.16v1.31H95.37v4.06h6.05v1.31Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1"
+        d="M105.42,28.32a3.66,3.66,0,0,1-2.76-1.09l-0.07-.07,1-1,0.07,0.07a2.19,2.19,0,0,0,1.78.75c1.5,0,2.32-.93,2.32-2.62V16.27h1.44v8.29A3.56,3.56,0,0,1,105.42,28.32Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1"
+        d="M117.74,15.87a6.11,6.11,0,0,0-6.17,6.25,6.15,6.15,0,1,0,12.3,0A6.06,6.06,0,0,0,117.74,15.87Zm0,11.21a4.8,4.8,0,0,1-4.75-5,4.74,4.74,0,0,1,4.72-5,4.8,4.8,0,0,1,4.75,5A4.74,4.74,0,0,1,117.74,27.08Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1"
+        d="M130,28.32a4,4,0,0,1-4.19-4.08v-8h1.44v7.88a2.76,2.76,0,1,0,5.52,0V16.27h1.44v8A4,4,0,0,1,130,28.32Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1"
+        d="M142.3,22.86a3.13,3.13,0,0,0,2.52-3.22,3.26,3.26,0,0,0-3.58-3.37h-4.61v12h1.44V23h2.68l2.65,5.17,0,0.05h1.68Zm-4.23-1.15V17.58h3a2.07,2.07,0,1,1,0,4.13h-3Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1" d="M156.12,28.23h-1.34l0,0L148.68,19v9.22h-1.44v-12h1.33l6.11,9.19V16.27h1.44v12Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1"
+        d="M163.54,16.33l0-.06h-1.19l-4.4,12h1.54l0.94-2.66h5l0.94,2.66h1.54Zm-2.68,8,2.08-5.84L165,24.28h-4.13Z"
+        transform="translate(-1.5 -1.67)"/>
+  <path class="cls-1" d="M177.17,28.23H169.7v-12h1.44V26.91h6v1.31Z" transform="translate(-1.5 -1.67)"/>
+  <circle class="cls-1" cx="20.74" cy="20.71" r="13.14"/>
+  <polyline class="cls-2" points="21.32 15.12 13.74 25.83 13.74 15.12"/>
+  <path class="cls-3" d="M29.24,16.79V24.3c0,3.55-4.1,4.1-5.2,2.66" transform="translate(-1.5 -1.67)"/>
+  <line class="cls-3" x1="18.12" y1="20.04" x2="22.79" y2="25.54"/>
+  <path class="cls-4" d="M30.28,10.77L34,5.41A20.67,20.67,0,1,0,10.32,39.27l3.75-5.36A14.13,14.13,0,0,1,30.28,10.77Z"
+        transform="translate(-1.5 -1.67)"/>
+  <text x="-1.5" y="-1.67"/>
+</svg>
